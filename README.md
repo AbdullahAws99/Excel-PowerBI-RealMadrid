@@ -30,6 +30,15 @@ But I continued and motivated myself and felt a sense of accomplishment every ti
 
 
 
+![image](https://github.com/AbdullahAws99/Excel-Project-RealMadrid/assets/97203899/833b9bea-8b0d-4175-9d70-237da2a7c4fb)
+
+
+![image](https://github.com/AbdullahAws99/Excel-Project-RealMadrid/assets/97203899/fbd141de-4b5b-4217-9d75-21afab5239ab)
+
+
+
+
+
 3- After I cleaned it, now it is my turn to explore the data and see the data I need and get rid of what I don’t need. I merged some columns and also created some columns in order to shorten the work for myself and also to extract more and broader information.
 
 
