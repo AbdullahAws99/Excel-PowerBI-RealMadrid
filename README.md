@@ -59,7 +59,7 @@ Praise be to God, I finished this project completely and learned many things, ha
  I uploaded the work to the Power Bi platform so that you can interact with the dashboard. Also, if you need the data, I uploaded the entire work here.
 
 
-
+Approximate data is not 100% true
 
 Data set from Kaggle :
 
